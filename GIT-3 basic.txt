@@ -1,0 +1,5 @@
+   GIT Bash-3
+
+git log :- to list all the commmits done previously.
+
+git log --author="rka87338" :- to list all the commits made by rka87338

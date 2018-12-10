@@ -1,0 +1,15 @@
+         GIT Bash-2
+
+To work on a project create a folder.See that the pwd is the folder on which you are working.
+For that use cd command,use ls command to know the path of files to move.
+To verify use pwd command. NOW...
+
+git init :- this command tells git to set up all the tools to start tracking. Technically, a .git secret file is added.
+
+git add . :- this command adds all the files of the folder/direcotry to the staging area. 
+     OR
+git add <file name> :- to add particular file to the staging area.
+
+git commmit -m "<message u want to give regarding the commit >" :-adds to the repository
+       
+
