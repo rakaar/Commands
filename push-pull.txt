@@ -1,0 +1,16 @@
+to push online:
+
+go to github-create a new repos
+
+copy the url
+
+git push -u <shift+ins to paste the url copied> master(actually the branc name)
+
+
+to get from github:
+
+go to the repo
+copy the url
+
+git clone <shift+ins to paste the  url copied>
+

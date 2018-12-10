@@ -1,0 +1,14 @@
+Suppose u made some changes after the commit:
+
+then git gives u two options,after u use git status:
+
+1)discard the change 2)keep the change
+
+1: to discard it clearly tell u 
+git checkout -- <filename>
+
+2: to save its the same story:
+git add <file name>
+git commit-m "<some other message for ur commit>"
+
+

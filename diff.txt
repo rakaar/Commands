@@ -1,0 +1,10 @@
+git diff:
+
+it shows the difference between working direcotry and repository
+
+
+git diff --staged :
+
+it shows the difference between staging area and repository
+
+

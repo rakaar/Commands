@@ -1,0 +1,23 @@
+prequisite:HEAD:a HEAD is the most recent commit
+
+
+suppose u have added some files to the staging area.
+you want to unstage them (remove from the staging area)
+
+git reset HEAD <file name if any>
+
+suppose 
+there is a project a ,which changes as follows:
+a->b->c
+a,b,c are committed.
+c is undesired but it is the last commit. it would really be nice,if u 
+could go back to 'b'. but git doesnot allow that.
+what  u can do is again commit 'b'
+for that
+git log
+copy the first 7 digits of commit 'b'
+use 
+
+git reset <the first 7 digits of 'b' commit>
+
+this allows u to change the HEAD..

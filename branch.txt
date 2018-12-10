@@ -1,0 +1,14 @@
+by default u are in master branch
+
+git branch :- tells u on which branch u are
+
+git branch <new branch name> :-to create a new branch
+
+git checkout <branch to be switched> :- to switch to a particular branch
+
+
+to merge:
+go to master branch
+ensure tht all other branchs are also commited
+
+git merge <branch name>
