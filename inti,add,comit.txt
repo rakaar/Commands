@@ -13,3 +13,5 @@ git add <file name> :- to add particular file to the staging area.
 git commmit -m "<message u want to give regarding the commit >" :-adds to the repository
        
 
+to undo the changes in the working directory (may be accidentally done by a cat)
+git checkout -- .
