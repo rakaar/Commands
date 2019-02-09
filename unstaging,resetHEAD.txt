@@ -21,3 +21,4 @@ use
 git reset <the first 7 digits of 'b' commit>
 
 this allows u to change the HEAD..
+the scenario is something like a->b->c->b
