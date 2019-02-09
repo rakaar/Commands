@@ -1,6 +1,6 @@
                                  GIT Bash-1
 
-pwd :- this means the present working directory
+pwd :- this means the print working directory
 
 cd  :- this means change the current directory
 
@@ -9,6 +9,7 @@ cd <dir1> :- this means change the current directory to dir1
 Suppose your pwd  is something like c/user/Raghavendra Kaushik/Desktop/hello
 And you want your pwd to change to  c/user/Raghavendra Kaushik/Desktop. 
 In simple words u want to move from hello directory to Desktop directory.
+or u can just type cd and then pull the folder towards terminal to which you want to change your directory
 To generalize move one directory backward
 USE:-   cd ..
 
