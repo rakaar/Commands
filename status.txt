@@ -1,7 +1,7 @@
   GIT STATUS:
 after init,before add : it tells u 'untrackd files.' git sees it but has not started tracking
 
-after add,before commit : it tells u that changes need to be commited
+after add,before commit : it tells u that changes need to be commited,it is currently in the staging area
 
 after commit : it tells u - on master branch nothing to commit ,working tree clean.
 
