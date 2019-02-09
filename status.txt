@@ -6,4 +6,6 @@ after add,before commit : it tells u that changes need to be commited,it is curr
 after commit : it tells u - on master branch nothing to commit ,working tree clean.
 
  SUPPOSE U MADE CHANGES AFTER A COMMIT..
-.. ..
+.. ..//this is a silly point, but just wrote it
+and u  want to remove them , that's the same as adding the file to the staging area using git add command and then 
+commiting it
